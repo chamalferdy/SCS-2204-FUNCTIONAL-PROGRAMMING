@@ -5,7 +5,7 @@ def mean(a: Int, b: Int): Double = {
   c = a.toDouble;
   d = b.toDouble;
   var mean: Double = (c + d) / 2;
-  BigDecimal(mean).setScale(3, BigDecimal.RoundingMode.HALF_UP).toDouble;
+  BigDecimal(mean).setScale(2, BigDecimal.RoundingMode.HALF_UP).toDouble;
 }
 
 def main(args: Array[String]): Unit = {

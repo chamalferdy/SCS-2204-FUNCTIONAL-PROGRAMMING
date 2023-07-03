@@ -1,5 +1,4 @@
 def main(args: Array[String]): Unit = {
-
   val strings = getListOfStrings()
 //   println("You entered:")
 //   strings.foreach(println)

@@ -139,3 +139,688 @@ INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
 Jun 27, 2023 4:30:06 AM org.flywaydb.core.internal.command.DbMigrate logSummary
 INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.109s)
 2023.06.27 04:30:06 INFO  time: initialize in 0.97s
+2023.06.27 04:30:09 WARN  Build server is not auto-connectable.
+2023.06.27 04:30:09 WARN  no build tool detected in workspace 'C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.27 04:30:09 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 04:30:18 INFO  no build target found for C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.06.27 04:30:22 INFO  time: code lens generation in 11s
+2023.06.27 04:31:24 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:31:41 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:31:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 63
+2023.06.27 04:32:02 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:32:14 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:32:54 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:35:36 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:36:01 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:36:13 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:36:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 381
+Jun 27, 2023 4:36:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 471
+Jun 27, 2023 4:37:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 595
+Jun 27, 2023 4:37:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 630
+Jun 27, 2023 4:37:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 654
+2023.06.27 04:38:03 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:38:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 27, 2023 4:38:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 804
+2023.06.27 04:38:36 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:39:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 847
+2023.06.27 04:39:17 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:39:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 875
+2023.06.27 04:39:44 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:40:19 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:40:36 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:40:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 930
+Jun 27, 2023 4:40:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 932
+Jun 27, 2023 4:40:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 936
+Jun 27, 2023 4:41:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 944
+2023.06.27 04:41:25 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:42:16 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:42:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 984
+2023.06.27 04:42:46 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:43:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1096
+2023.06.27 04:43:33 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:44:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1239
+2023.06.27 04:44:19 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:44:32 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:45:09 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:46:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1292
+2023.06.27 04:46:30 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:46:55 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:47:13 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:47:53 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:48:11 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:49:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1485
+Jun 27, 2023 4:49:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1517
+Jun 27, 2023 4:49:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1519
+Jun 27, 2023 4:49:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1532
+2023.06.27 04:50:04 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:50:19 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:50:39 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 04:51:03 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:51:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1784
+Jun 27, 2023 4:51:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1803
+Jun 27, 2023 4:51:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1813
+2023.06.27 04:51:55 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:52:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1836
+Jun 27, 2023 4:52:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1841
+2023.06.27 04:52:46 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 4:53:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1857
+2023.06.27 04:53:25 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 04:53:26 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 04:53:34 ERROR scalafmt: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala:6: error: [dialect scala213] identifier expected but end of file found
+def 
+    ^
+2023.06.27 04:53:34 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+Jun 27, 2023 4:53:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1924
+Jun 27, 2023 4:53:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1938
+Jun 27, 2023 4:53:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1952
+Jun 27, 2023 4:54:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2006
+Jun 27, 2023 4:54:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2007
+Jun 27, 2023 4:54:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2073
+2023.06.27 04:54:54 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 05:29:08 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 05:29:08 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 5:29:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+Jun 27, 2023 5:29:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+Jun 27, 2023 5:29:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2304
+Jun 27, 2023 5:30:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2393
+Jun 27, 2023 5:30:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2417
+2023.06.27 05:30:24 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 05:31:11 ERROR scalafmt: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala:4: error: [dialect scala213] illegal start of simple expression
+}
+^
+2023.06.27 05:31:11 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 05:31:36 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 05:31:49 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 05:32:03 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+Jun 27, 2023 5:32:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2850
+Jun 27, 2023 5:32:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2862
+2023.06.27 06:03:15 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 07:47:28 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 07:47:34 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 07:47:41 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 7:48:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3059
+Jun 27, 2023 7:48:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3074
+Jun 27, 2023 7:48:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3107
+2023.06.27 07:48:36 ERROR scalafmt: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala:4: error: [dialect scala213] illegal start of simple expression
+}
+^
+2023.06.27 07:48:36 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 07:48:56 ERROR scalafmt: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala:4: error: [dialect scala213] illegal start of simple pattern
+}
+^
+2023.06.27 07:48:56 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 7:48:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3212
+Jun 27, 2023 7:49:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3227
+2023.06.27 07:49:03 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 7:49:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3265
+2023.06.27 07:49:31 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 7:49:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3354
+Jun 27, 2023 7:49:33 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3355
+2023.06.27 07:49:37 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 07:49:43 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 7:49:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3400
+2023.06.27 07:50:22 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 07:50:53 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 07:51:36 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 07:51:59 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 07:52:22 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 7:52:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3725
+Jun 27, 2023 7:52:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3756
+2023.06.27 07:52:38 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 7:52:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3783
+Jun 27, 2023 7:52:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3784
+2023.06.27 07:53:02 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 07:53:26 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 07:58:07 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 7:59:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3875
+2023.06.27 07:59:39 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 7:59:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:83)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:96)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:48)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:48)
+
+2023.06.27 07:59:58 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 8:00:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3924
+Jun 27, 2023 8:00:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3949
+2023.06.27 08:00:22 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 08:01:18 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 8:03:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4054
+2023.06.27 08:03:58 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 8:04:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4090
+2023.06.27 08:04:31 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 8:05:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4158
+2023.06.27 08:05:55 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 8:06:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4255
+Jun 27, 2023 8:06:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4260
+2023.06.27 08:06:35 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 08:06:57 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 08:07:54 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 08:08:01 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 08:08:23 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 08:08:49 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 08:08:58 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 08:09:09 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 8:10:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4457
+Jun 27, 2023 8:10:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4462
+Jun 27, 2023 8:10:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4502
+2023.06.27 08:10:31 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 8:10:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4544
+Jun 27, 2023 8:10:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4545
+Jun 27, 2023 8:10:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4548
+2023.06.27 08:11:23 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 08:12:28 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 08:12:34 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 08:12:44 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 8:12:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4667
+2023.06.27 08:13:00 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 08:14:32 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 08:15:04 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+Jun 27, 2023 8:15:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4820
+2023.06.27 08:15:33 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 08:15:42 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 08:15:44 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 08:16:19 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 08:17:38 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+Jun 27, 2023 8:17:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4919
+2023.06.27 08:17:46 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 08:18:18 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 08:18:30 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+Jun 27, 2023 8:19:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5034
+2023.06.27 08:19:19 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+Jun 27, 2023 8:19:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5056
+Jun 27, 2023 8:19:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5062
+Jun 27, 2023 8:20:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5074
+Jun 27, 2023 8:20:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5077
+2023.06.27 08:20:33 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 08:20:33 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 08:20:35 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 08:20:47 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 08:21:53 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+2023.06.27 08:24:20 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\rough.scala
+2023.06.27 08:29:25 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 08:35:20 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 8:35:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:469)
+	at scala.meta.internal.metals.MetalsLspService.executeCommand(MetalsLspService.scala:2031)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.06.27 08:35:38 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 8:35:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:469)
+	at scala.meta.internal.metals.MetalsLspService.executeCommand(MetalsLspService.scala:2031)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.06.27 08:35:51 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 8:35:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:469)
+	at scala.meta.internal.metals.MetalsLspService.executeCommand(MetalsLspService.scala:2031)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.06.27 08:36:11 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 8:36:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:469)
+	at scala.meta.internal.metals.MetalsLspService.executeCommand(MetalsLspService.scala:2031)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.06.27 08:36:38 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 08:37:03 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 08:43:54 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 8:44:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5552
+Jun 27, 2023 8:44:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5622
+Jun 27, 2023 8:44:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5653
+Jun 27, 2023 8:44:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5701
+Jun 27, 2023 8:44:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5714
+Jun 27, 2023 8:45:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5737
+2023.06.27 08:45:19 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 8:49:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5768
+2023.06.27 08:51:55 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q2.scala
+Jun 27, 2023 9:02:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5815
+Jun 27, 2023 9:02:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5822
+Jun 27, 2023 9:02:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5823
+Jun 27, 2023 9:02:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5827
+2023.06.27 09:03:03 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 9:09:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5941
+Jun 27, 2023 9:09:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5950
+Jun 27, 2023 9:09:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5966
+Jun 27, 2023 9:10:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5978
+Jun 27, 2023 9:10:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5997
+Jun 27, 2023 9:10:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6001
+Jun 27, 2023 9:10:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6019
+Jun 27, 2023 9:10:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6074
+Jun 27, 2023 9:11:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6119
+Jun 27, 2023 9:11:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6162
+Jun 27, 2023 9:12:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6264
+Jun 27, 2023 9:12:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6329
+Jun 27, 2023 9:12:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6336
+Jun 27, 2023 9:12:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6338
+Jun 27, 2023 9:13:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6365
+Jun 27, 2023 9:13:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6396
+2023.06.27 09:13:51 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+Jun 27, 2023 9:15:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6519
+Jun 27, 2023 9:15:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6598
+2023.06.27 09:16:04 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 09:17:53 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 09:18:34 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 9:19:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6657
+Jun 27, 2023 9:19:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6681
+Jun 27, 2023 9:19:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6698
+Jun 27, 2023 9:20:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6704
+Jun 27, 2023 9:20:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6708
+Jun 27, 2023 9:20:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6724
+Jun 27, 2023 9:20:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6725
+Jun 27, 2023 9:20:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6735
+Jun 27, 2023 9:20:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6747
+Jun 27, 2023 9:20:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6763
+Jun 27, 2023 9:21:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6789
+2023.06.27 09:23:09 ERROR scalafmt: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala:8: error: [dialect scala213] illegal start of simple expression
+  BigDecimal(mean).setScale(2, .RoundingMode.HALF_UP).toDouble;
+                               ^
+2023.06.27 09:23:09 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 09:23:09 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 09:23:21 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 09:24:37 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+2023.06.27 09:26:31 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q1.scala
+2023.06.27 09:27:01 WARN  no build target for: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\Q3.scala
+Jun 27, 2023 9:27:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6861
+Jun 27, 2023 9:27:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6880
+2023.06.27 09:27:41 INFO  Shutting down server
+2023.06.27 09:27:41 INFO  shutting down Metals
+2023.06.27 09:27:41 INFO  Exiting server
+2023.06.27 11:13:44 INFO  Started: Metals version 0.11.12 in workspace 'C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03' for client Visual Studio Code 1.79.2.
+Jun 27, 2023 11:13:44 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Jun 27, 2023 11:13:44 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Jun 27, 2023 11:13:44 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+2023.06.27 11:13:44 WARN  resetting database: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\.metals\metals.h2.db
+2023.06.27 11:13:44 ERROR org.flywaydb.core.internal.exception.FlywaySqlException: Unable to obtain connection from database (jdbc:h2:file:C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\.metals\metals;AUTO_SERVER=TRUE) for user 'sa': URL format error; must be "jdbc:h2:{ {.|mem:}[name] | [file:]fileName | {tcp|ssl}:[//]server[:port][,server2[:port]]/name }[;key=value...]" but is "jdbc:h2:file:C:\\A_New Volume (G" [90046-214]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 90046
+Error Code : 90046
+Message    : URL format error; must be "jdbc:h2:{ {.|mem:}[name] | [file:]fileName | {tcp|ssl}:[//]server[:port][,server2[:port]]/name }[;key=value...]" but is "jdbc:h2:file:C:\\A_New Volume (G" [90046-214]
+
+	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+	at org.flywaydb.core.internal.jdbc.JdbcConnectionFactory.<init>(JdbcConnectionFactory.java:74)
+	at org.flywaydb.core.FlywayExecutor.execute(FlywayExecutor.java:140)
+	at org.flywaydb.core.Flyway.clean(Flyway.java:234)
+	at scala.meta.internal.metals.Tables.migrateOrRestart(Tables.scala:156)
+	at scala.meta.internal.metals.Tables.tryUrl(Tables.scala:144)
+	at scala.meta.internal.metals.Tables.persistentConnection(Tables.scala:138)
+	at scala.meta.internal.metals.Tables.tryAutoServer(Tables.scala:81)
+	at scala.meta.internal.metals.Tables.connect(Tables.scala:48)
+	at scala.meta.internal.metals.Tables.connection(Tables.scala:74)
+	at scala.meta.internal.metals.Tables.$anonfun$fingerprints$1(Tables.scala:39)
+	at scala.meta.internal.metals.Fingerprints.load(Fingerprints.scala:52)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$initialize$2(MetalsLspService.scala:876)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: URL format error; must be "jdbc:h2:{ {.|mem:}[name] | [file:]fileName | {tcp|ssl}:[//]server[:port][,server2[:port]]/name }[;key=value...]" but is "jdbc:h2:file:C:\\A_New Volume (G" [90046-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:678)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.engine.ConnectionInfo.getFormatException(ConnectionInfo.java:687)
+	at org.h2.engine.ConnectionInfo.readSettingsFromURL(ConnectionInfo.java:330)
+	at org.h2.engine.ConnectionInfo.<init>(ConnectionInfo.java:97)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:113)
+	at org.h2.Driver.connect(Driver.java:59)
+	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:258)
+	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:223)
+	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:48)
+	at org.flywaydb.core.internal.jdbc.JdbcConnectionFactory.<init>(JdbcConnectionFactory.java:74)
+	at org.flywaydb.core.FlywayExecutor.execute(FlywayExecutor.java:140)
+	at org.flywaydb.core.Flyway.clean(Flyway.java:234)
+	at scala.meta.internal.metals.Tables.migrateOrRestart(Tables.scala:156)
+	at scala.meta.internal.metals.Tables.tryUrl(Tables.scala:144)
+	at scala.meta.internal.metals.Tables.persistentConnection(Tables.scala:138)
+	at scala.meta.internal.metals.Tables.tryAutoServer(Tables.scala:81)
+	at scala.meta.internal.metals.Tables.connect(Tables.scala:48)
+	at scala.meta.internal.metals.Tables.connection(Tables.scala:74)
+	at scala.meta.internal.metals.Tables.$anonfun$fingerprints$1(Tables.scala:39)
+	at scala.meta.internal.metals.Fingerprints.load(Fingerprints.scala:52)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$initialize$2(MetalsLspService.scala:876)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.06.27 11:13:44 WARN  resetting database: C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\.metals\metals.h2.db
+2023.06.27 11:13:44 ERROR unable to setup persistent H2 database with AUTO_SERVER=false, falling back to in-memory database. This means you may be redundantly asked to execute 'Import build', even if it's not needed. Also, code navigation will not work for existing files in the .metals/readonly/ directory. To fix this problem, make sure you only have one running Metals server in the directory 'C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03'.
+org.flywaydb.core.internal.exception.FlywaySqlException: Unable to obtain connection from database (jdbc:h2:file:C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03\.metals\metals;AUTO_SERVER=TRUE) for user 'sa': URL format error; must be "jdbc:h2:{ {.|mem:}[name] | [file:]fileName | {tcp|ssl}:[//]server[:port][,server2[:port]]/name }[;key=value...]" but is "jdbc:h2:file:C:\\A_New Volume (G" [90046-214]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SQL State  : 90046
+Error Code : 90046
+Message    : URL format error; must be "jdbc:h2:{ {.|mem:}[name] | [file:]fileName | {tcp|ssl}:[//]server[:port][,server2[:port]]/name }[;key=value...]" but is "jdbc:h2:file:C:\\A_New Volume (G" [90046-214]
+
+	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:60)
+	at org.flywaydb.core.internal.jdbc.JdbcConnectionFactory.<init>(JdbcConnectionFactory.java:74)
+	at org.flywaydb.core.FlywayExecutor.execute(FlywayExecutor.java:140)
+	at org.flywaydb.core.Flyway.clean(Flyway.java:234)
+	at scala.meta.internal.metals.Tables.migrateOrRestart(Tables.scala:156)
+	at scala.meta.internal.metals.Tables.tryUrl(Tables.scala:144)
+	at scala.meta.internal.metals.Tables.persistentConnection(Tables.scala:138)
+	at scala.meta.internal.metals.Tables.tryNoAutoServer(Tables.scala:98)
+	at scala.meta.internal.metals.Tables.tryAutoServer(Tables.scala:92)
+	at scala.meta.internal.metals.Tables.connect(Tables.scala:48)
+	at scala.meta.internal.metals.Tables.connection(Tables.scala:74)
+	at scala.meta.internal.metals.Tables.$anonfun$fingerprints$1(Tables.scala:39)
+	at scala.meta.internal.metals.Fingerprints.load(Fingerprints.scala:52)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$initialize$2(MetalsLspService.scala:876)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: URL format error; must be "jdbc:h2:{ {.|mem:}[name] | [file:]fileName | {tcp|ssl}:[//]server[:port][,server2[:port]]/name }[;key=value...]" but is "jdbc:h2:file:C:\\A_New Volume (G" [90046-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:678)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.engine.ConnectionInfo.getFormatException(ConnectionInfo.java:687)
+	at org.h2.engine.ConnectionInfo.readSettingsFromURL(ConnectionInfo.java:330)
+	at org.h2.engine.ConnectionInfo.<init>(ConnectionInfo.java:97)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:113)
+	at org.h2.Driver.connect(Driver.java:59)
+	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnectionFromDriver(DriverDataSource.java:258)
+	at org.flywaydb.core.internal.jdbc.DriverDataSource.getConnection(DriverDataSource.java:223)
+	at org.flywaydb.core.internal.jdbc.JdbcUtils.openConnection(JdbcUtils.java:48)
+	at org.flywaydb.core.internal.jdbc.JdbcConnectionFactory.<init>(JdbcConnectionFactory.java:74)
+	at org.flywaydb.core.FlywayExecutor.execute(FlywayExecutor.java:140)
+	at org.flywaydb.core.Flyway.clean(Flyway.java:234)
+	at scala.meta.internal.metals.Tables.migrateOrRestart(Tables.scala:156)
+	at scala.meta.internal.metals.Tables.tryUrl(Tables.scala:144)
+	at scala.meta.internal.metals.Tables.persistentConnection(Tables.scala:138)
+	at scala.meta.internal.metals.Tables.tryNoAutoServer(Tables.scala:98)
+	at scala.meta.internal.metals.Tables.tryAutoServer(Tables.scala:92)
+	at scala.meta.internal.metals.Tables.connect(Tables.scala:48)
+	at scala.meta.internal.metals.Tables.connection(Tables.scala:74)
+	at scala.meta.internal.metals.Tables.$anonfun$fingerprints$1(Tables.scala:39)
+	at scala.meta.internal.metals.Fingerprints.load(Fingerprints.scala:52)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$initialize$2(MetalsLspService.scala:876)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+Jun 27, 2023 11:13:44 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:mem:metals (H2 2.1)
+Jun 27, 2023 11:13:45 AM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+Jun 27, 2023 11:13:45 AM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.027s)
+Jun 27, 2023 11:13:45 AM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+Jun 27, 2023 11:13:45 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+Jun 27, 2023 11:13:45 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+Jun 27, 2023 11:13:45 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+Jun 27, 2023 11:13:45 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+Jun 27, 2023 11:13:45 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+Jun 27, 2023 11:13:45 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.126s)
+2023.06.27 11:13:45 INFO  time: initialize in 0.94s
+2023.06.27 11:13:49 WARN  Build server is not auto-connectable.
+2023.06.27 11:13:49 WARN  no build tool detected in workspace 'C:\A_New Volume (G;)\A - UCSC\1 ST SEM\SCS 2204 - FUNCTIONAL PROGMNG_(3)\Lab Sheets\SCS-2204-FUNCTIONAL-PROGRAMMING\Labsheet_03'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.27 11:13:56 INFO  Shutting down server
+2023.06.27 11:13:56 INFO  shutting down Metals
+2023.06.27 11:13:56 INFO  Exiting server

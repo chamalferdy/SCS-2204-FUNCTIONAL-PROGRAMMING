@@ -1,7 +1,7 @@
 def main(args: Array[String]): Unit = {
   println("Enter an Integer : ")
   var amount: Int = scala.io.StdIn.readInt()
-  println("The entered number would be : " + checkNumber(amount))
+  checkNumber(amount)
 
 }
 

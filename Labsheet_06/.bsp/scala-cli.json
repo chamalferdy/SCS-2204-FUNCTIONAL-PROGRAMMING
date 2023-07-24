@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\Lenovo\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "C:\\A_NewVolume(G)\\A - UCSC\\1 ST SEM\\SCS 2204 - FUNCTIONAL PROGMNG_(3)\\1_Lab Sheets\\SCS-2204-FUNCTIONAL-PROGRAMMING\\Labsheet_06\\.scala-build\\ide-options-v2.json",
+    "C:\\A_NewVolume(G)\\A - UCSC\\1 ST SEM\\SCS 2204 - FUNCTIONAL PROGMNG_(3)\\1_Lab Sheets\\SCS-2204-FUNCTIONAL-PROGRAMMING\\Labsheet_06"
+  ],
+  "version": "1.0.0",
+  "bspVersion": "2.1.0-M3",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

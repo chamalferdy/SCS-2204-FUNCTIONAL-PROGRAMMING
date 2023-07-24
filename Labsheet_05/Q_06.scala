@@ -6,7 +6,7 @@ object Fibonacci{
     while (flag) {
       println("\nEnter a number : ")
       var m: Int = scala.io.StdIn.readInt()
-      if m >= 1 then printFibonacci(m)
+      if m >= 1 then printFibonacci(m)  
       else{
         println("\nEnter a Natural Number !")
         flag = false

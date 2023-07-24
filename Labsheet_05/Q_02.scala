@@ -11,7 +11,7 @@ def gcd(a: Int, b: Int): Int = b match {
 
 def isPrime(n: Int, i: Int): Boolean = n match {
   case n if n == i        => true
-  case n if gcd(n, i) > 1 => false
+  case n if gcd(n, i) > 1 => false // if greater than 1 it's not prime.
   case x                  => isPrime(n, i + 1)
 }
 
@@ -27,6 +27,6 @@ def printSeq(n: Int, i: Int): Int = {
 
 def main(args: Array[String]): Unit = {
   print("Enter a number : ")
-  var m: Int = readInt()
+  var m: Int = readInt() // 5
   printSeq(m, 2)
 }

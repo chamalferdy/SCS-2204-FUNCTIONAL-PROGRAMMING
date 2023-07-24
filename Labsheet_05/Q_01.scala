@@ -15,7 +15,7 @@ def main(args: Array[String]): Unit = {
 
 def prime(n: Int, x: Int = 2): Boolean = x match {
   case y if (y == n)      => true
-  case y if gcd(n, y) > 1 => false
+  case y if gcd(n, y) > 1 => false // gcd(n,x) if greater than 1 it's not prime.
   case y                  => prime(n, y + 1)
 }
 

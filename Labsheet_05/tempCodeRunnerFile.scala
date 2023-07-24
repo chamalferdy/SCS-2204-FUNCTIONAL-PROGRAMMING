@@ -1,0 +1,1 @@
+if greater than 1 it's not prime.

@@ -4,7 +4,7 @@ object One {
     filterEvenNumbers(intlist)
   }
   def filterEvenNumbers(integerList: List[Int]): Unit = {
-    val list1: List[Int] = integerList.filter(_ % 2 == 0)
+    val list1: List[Int] = integerList.filter(x => x % 2 == 0)
     println("The Even Numbers of the list would be : " + list1)
   }
 }

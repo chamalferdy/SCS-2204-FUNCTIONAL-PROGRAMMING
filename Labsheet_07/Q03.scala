@@ -9,7 +9,7 @@ object Three {
   }
   def filterPrime(numbers: List[Int]): List[Int] = {
     val isPrime = (n: Int) =>
-      (n > 1) && (2 to Math.sqrt(n).toInt).forall(n % _ != 0)
+      (n > 1) && (2 to Math.sqrt(n).toInt).forall(i => n % i != 0)
     numbers.filter(isPrime)
   }
 }

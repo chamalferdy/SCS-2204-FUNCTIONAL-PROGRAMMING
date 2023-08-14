@@ -23,13 +23,8 @@ object Three {
     println(func(name))
   }
 
-  def toUpper(para1: String): String = {
-    para1.map(x => x.toUpper)
-  }
-
-  def toLower(para2: String): String = {
-    para2.map(y => y.toLower)
-  }
+  val toUpper: String => String = (str: String) => { str.toUpperCase() }
+  val toLower: String => String = (str: String) => { str.toLowerCase() }
 
   def toCustom(para3: String): String = {
     var index: Int = para3.length()

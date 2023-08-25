@@ -8,12 +8,12 @@ object Four {
   }
 
   def main(args: Array[String]): Unit = {
-    var acc1 = new Account("001", 10023, 250_040)
-    var acc2 = new Account("002", 10323, -460_080)
-    var acc3 = new Account("003", 34023, -950_400)
-    var acc4 = new Account("004", 15063, -280_000)
-    var acc5 = new Account("005", 92353, 970_040)
-    var acc6 = new Account("006", 63467, 160_008.55)
+    var acc1 = new Account("001", 10_023, 250_040)
+    var acc2 = new Account("002", 10_323, -460_080)
+    var acc3 = new Account("003", 34_023, -950_400)
+    var acc4 = new Account("004", 15_063, -280_000)
+    var acc5 = new Account("005", 92_353, 970_040)
+    var acc6 = new Account("006", 63_467, 160_008.55)
     var acclist = List(acc1, acc2, acc3, acc4, acc5, acc6)
     //////////////////////////////////////////////////// 4.1
     var ODlist = acclist.filter(_.balance < 0)
